@@ -19,7 +19,7 @@ namespace Xperience.FontAwesomeIntegrator
         [Option(
             "-fpath|--font-awesome-path",
             CommandOptionType.SingleValue,
-            Description = @"Full path to folder extracted from fontawesome-**-web.zip")]
+            Description = @"Full path to content folder extracted from fontawesome-**-web.zip")]
         public (bool hasValue, string value) FontAwesomePath { get; }
 
         public static void Main(string[] args) => CommandLineApplication.Execute<Program>(args);

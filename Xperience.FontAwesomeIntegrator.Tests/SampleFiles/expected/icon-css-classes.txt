@@ -1,0 +1,8 @@
+﻿fab fa-icon-1
+fas fa-icon-2
+fas fa-icon-3
+far fa-icon-3
+fal fa-icon-3
+fad fa-icon-3
+fas fa-icon-4
+far fa-icon-4

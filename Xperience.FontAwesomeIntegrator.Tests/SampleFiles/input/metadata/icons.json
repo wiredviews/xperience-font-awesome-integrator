@@ -1,0 +1,26 @@
+{
+  "icon-1": {
+    "styles": [
+      "brands"
+    ]
+  },
+  "icon-2": {
+    "styles": [
+      "solid"
+    ]
+  },
+  "icon-3": {
+    "styles": [
+      "solid",
+      "regular",
+      "light",
+      "duotone"
+    ]
+  },
+  "icon-4": {
+    "styles": [
+      "solid",
+      "regular"
+    ]
+  }
+}
